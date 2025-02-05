@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: 정당지지율 여론조사 결과
 ---
 
